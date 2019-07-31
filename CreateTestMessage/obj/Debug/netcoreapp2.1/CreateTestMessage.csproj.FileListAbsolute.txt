@@ -1,0 +1,11 @@
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\bin\Debug\netcoreapp2.1\CreateTestMessage.deps.json
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\bin\Debug\netcoreapp2.1\CreateTestMessage.runtimeconfig.json
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\bin\Debug\netcoreapp2.1\CreateTestMessage.runtimeconfig.dev.json
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\bin\Debug\netcoreapp2.1\CreateTestMessage.dll
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\bin\Debug\netcoreapp2.1\CreateTestMessage.pdb
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\obj\Debug\netcoreapp2.1\CreateTestMessage.csproj.CoreCompileInputs.cache
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\obj\Debug\netcoreapp2.1\CreateTestMessage.AssemblyInfoInputs.cache
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\obj\Debug\netcoreapp2.1\CreateTestMessage.AssemblyInfo.cs
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\obj\Debug\netcoreapp2.1\CreateTestMessage.dll
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\obj\Debug\netcoreapp2.1\CreateTestMessage.pdb
+C:\Users\d.paddock\source\repos\CreateTestMessage\CreateTestMessage\obj\Debug\netcoreapp2.1\CreateTestMessage.csprojAssemblyReference.cache
